@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mattix1710
-- 👀 I’m interested in programming and network administration
-- 🌱 I’m currently learning Lua language
-- 💞️ I’m looking to collaborate on (don't know yet)
+- 👀 I’m interested in programming/network administration/Cybersecurity
+- 🌱 I’m currently learning <LIFE>
 - 📫 How to reach me ...
 
 <!---
