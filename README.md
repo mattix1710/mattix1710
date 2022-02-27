@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattix1710
-- 👀 I’m interested in programming/network administration/Cybersecurity
+- 👀 I’m interested in programming/network administration/cybersecurity
 - 🌱 I’m currently learning <LIFE>
 - 📫 How to reach me ...
 
