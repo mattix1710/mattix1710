@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mattix1710
 - 👀 I’m interested in programming/network administration/cybersecurity
-- 🌱 I’m currently learning how to \<LIFE\>
+- 🌱 I’m currently learning how to \<LIVE\>
 - 📫 How to reach me ...
 
 <!---
