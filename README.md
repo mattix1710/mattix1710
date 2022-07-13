@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mattix1710
 - 👀 I’m interested in programming/network administration/cybersecurity
 - 🌱 I’m currently learning how to \<LIVE\>
-- 📫 How to reach me ...
+- 📫 You can reach me on:
+  - Discord: mattix1710#6183
 
 <!---
 mattix1710/mattix1710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
